@@ -1,2 +1,4 @@
 # software-development-style-guides
-This repositoty contains the software development style guides. So for you introduce it, must read this document.
+This repository contains the software development style guides. So for you introduce it, must read this document.
+
+* [database-conventions.md](database-conventions.md). Convenciones de nombres para las bases de datos.
